@@ -1,0 +1,6 @@
+streamlit
+requests
+feedparser
+transformers
+torch
+python-dateutil
